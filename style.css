@@ -1,0 +1,53 @@
+.img-circle {
+	border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#border-lightgrey {
+	border: 6px solid lightgrey;
+}
+
+body { 
+	background-color: rgba(230, 230, 230, 1.0); 
+	font-family: "Lora", serif;
+}
+
+h1,h2 {
+	font-family: Do Hyeon;
+}
+
+h1 { 
+	color: #542254;
+	font-size: 34px; 
+	font-weight: 1000;
+	text-decoration: underline;
+}
+
+h2 {
+	color: #F1523C; 
+	font-weight: 600;
+	font-size: 26px;
+	text-decoration: underline;
+}
+
+p {
+	color: rgba(15, 15, 15, 1.0); 
+	font-size: 16px;
+	font-weight: 300;
+}
+
+h3 {
+	color: rgba(0, 0, 0, 1.0); 
+	font-size: 20px;
+	font-weight: 500;
+}
+
+a {
+	font-size: 18px;
+}
+a:hover{
+	color: rgba(0, 0, 255, 1.0);
+}
